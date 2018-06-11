@@ -3,17 +3,17 @@
 Tableau Prep is a new data preparation platform launched by Tableau in March 2018. 
 Tableau Prep is automating joins, unions, pivots and aggregations via a drag and drop interface.
 Tableau Prep is part of Tableau Creator : https://www.tableau.com/pricing/individual
-- Tableau Prep : to combine, shape, and clean your data for analysis
+-Tableau Prep : to combine, shape, and clean your data for analysis
 * https://www.tableau.com/products/prep
 
 # How to learn Tableau Prep 
-- Tableau Prep Ressources : 
+-Tableau Prep Ressources : 
 * https://community.tableau.com/community/forums/prep/resources
 
-- Tableau Skill Pills on YouTube : 
+-Tableau Skill Pills on YouTube : 
 * https://www.youtube.com/watch?v=PraF_wwPVak&list=PL_qx68DwhYA8W1hw_SMR9LtZDlFuAywoV
 
-- Tableau Prep Training 11 videos 
+-Tableau Prep Training 11 videos 
 * https://www.tableau.com/fr-fr/learn/training#prep
 
 # They talk about Tableau Prep : 

@@ -23,7 +23,7 @@ Tableau Prep is part of Tableau Creator : https://www.tableau.com/pricing/indivi
 -My first few months with Tableau Prep: What I learned and loved
 * https://www.tableau.com/about/blog/2018/4/my-first-few-months-tableau-prep-what-i-learned-and-loved-85254#0PL4iSM8Ed0CdBZK.99
 
-# Tableau Prep Use Case (Flow in the code section)
+# Tableau Prep Use Case : Gender Pay Gap.tflx in the code section 
 -Tableau Prep Use Case by Vizbiz : Split, Pivoting and Union with Tableau Prep
 * https://www.vizwiz.com/2018/06/split-pivoting-union.html?m=1
 

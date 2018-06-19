@@ -12,6 +12,9 @@
 -My first few months with Tableau Prep: What I learned and loved
 * https://www.tableau.com/about/blog/2018/4/my-first-few-months-tableau-prep-what-i-learned-and-loved-85254#0PL4iSM8Ed0CdBZK.99
 
+-Tableau Prep: First Impressions from a Data Engineer
+https://interworks.com/blog/sparker/2018/04/25/first-impressions-of-tableau-prep-from-a-data-engineer/
+
 -Actinvision du nouveau chez Tableau 
 * https://www.actinvision.com/single-post/Du-nouveau-chez-Tableau
 

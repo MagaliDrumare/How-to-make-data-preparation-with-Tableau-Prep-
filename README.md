@@ -9,6 +9,9 @@
 -CNNBS: Our new product cuts data preparation time in half
 * https://goo.gl/nqQczF
 
+-Data Prep Becomes an Enterprise Effort
+* https://goo.gl/nQEq8G
+
 -My first few months with Tableau Prep: What I learned and loved
 * https://www.tableau.com/about/blog/2018/4/my-first-few-months-tableau-prep-what-i-learned-and-loved-85254#0PL4iSM8Ed0CdBZK.99
 

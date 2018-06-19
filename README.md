@@ -12,13 +12,13 @@
 -My first few months with Tableau Prep: What I learned and loved
 * https://www.tableau.com/about/blog/2018/4/my-first-few-months-tableau-prep-what-i-learned-and-loved-85254#0PL4iSM8Ed0CdBZK.99
 
-- Actinvision du nouveau chez Tableau 
+-Actinvision du nouveau chez Tableau 
 * https://www.actinvision.com/single-post/Du-nouveau-chez-Tableau
 
-- Tableau Prep : La préparation de données ultra-visuelle
+-Tableau Prep : La préparation de données ultra-visuelle
 * https://www.theinformationlab.fr/2018/04/30/tableau-prep-la-preparation-de-donnees-ultra-visuelle/
 
-- Tableau Prep | Vos données préparées, aussitôt visualisées !
+-Tableau Prep | Vos données préparées, aussitôt visualisées !
 * http://blog.synaltic.fr/2018/05/03/tableau-prep-test-data-preparation/
 
 # How to learn Tableau Prep 

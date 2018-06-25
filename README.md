@@ -4,7 +4,7 @@
 * Tableau Prep is automating joins, unions, pivots and aggregations via a drag and drop interface.
 * Tableau Prep is part of Tableau Creator : https://www.tableau.com/pricing/individual
 * Tableau Prep : to combine, shape, and clean your data for analysis : https://www.tableau.com/products/prep
-* Tableau Prep 2018.2 : https://lc.cx/m2KG
+* Tableau Prep 2018.1.2 : https://lc.cx/m2KG
 
 # They talk about Tableau Prep : 
 -CNNBS: Our new product cuts data preparation time in half
